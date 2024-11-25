@@ -4,6 +4,7 @@
 This project is a Role-Based Access Control (RBAC) interface designed as part of a Frontend Developer Intern assignment for VRV Security. It allows the creation and management of users, roles, and permissions with an intuitive and responsive user interface.
 
 💗Features
+
 💫Role Management:
 
 Create, edit, and delete roles.
